@@ -1,0 +1,2 @@
+# smart-city
+Urban area that uses different types of electronic Internet of things sensors to collect data and then use these data to manage assets and resources efficiently A smart city is an urban area that uses different types of electronic methods and sensors to collect data. Insights gained from that data are used to manage assets, resources and services efficiently; in return, that data is used to improve the operations across the city.
